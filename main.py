@@ -5,7 +5,7 @@ from data_acquisition.equipment_specs.module_specs.process_module_data import pr
 
 # .pan dosyasını oku
 
-pan_data = read_pan_file("C:\\Users\\selin\\Projects\\solar_project\\data_acquisition\\equipment_specs\\module_specs\\ALFA_370.PAN")
+pan_data = read_pan_file("C:\\Users\\Pratikus\\Documents\\GitHub\\SolarEnergyPredictionSuite\\data_acquisition\\equipment_specs\\module_specs\\ALFA_370.PAN")
 
 
 # Veriyi pvlib uyumlu bir formata dönüştür
